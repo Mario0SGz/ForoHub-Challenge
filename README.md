@@ -73,7 +73,6 @@ Aquí podrás explorar los endpoints disponibles, sus parámetros y respuestas e
 - MySQL Connector/J
 
 ---
-
 ## Capturas de Pantalla
 
 ### Swagger UI
@@ -81,7 +80,38 @@ Aquí podrás explorar los endpoints disponibles, sus parámetros y respuestas e
 ![Swagger UI](screenshots/CapturaApi2.png)
 
 ### Insomnia Collection
-![Insomnia Collection](screenshots/postman-collection.png)
+
+#### POST - Ejemplos de Creación
+
+![Insomnia POST 1](screenshots/InsomniaPost-1.png)
+Descripción: Captura de pantalla mostrando la configuración de una solicitud POST para el login en la API.
+
+![Insomnia POST 2](screenshots/InsomniaPost-2.png)
+Descripción: Ejemplo de datos enviados en una solicitud POST para crear un usuario en la API.
+
+![Insomnia POST 3](screenshots/InsomniaPost-3.png)
+Descripción: Ejemplo de datos enviados en una solicitud POST para crear un curso en la API.
+
+![Insomnia POST 4](screenshots/InsomniaPost-4.png)
+Descripción: Ejemplo de datos enviados en una solicitud POST para crear un tópico en la API.
+
+#### GET - Ejemplos de Consulta
+
+![Insomnia GET 1](screenshots/InsomniaGet-1.png)
+Descripción: Captura de pantalla mostrando la lista de tópicos en la API.
+
+![Insomnia GET 2](screenshots/InsomniaGet-2.png)
+Descripción: Ejemplo de respuesta exitosa de la API después de realizar una solicitud GET para obtener un tópico por ID.
+
+#### PUT - Ejemplos de Actualización
+
+![Insomnia PUT 1](screenshots/InsomniaPut-1.png)
+Descripción: Captura de pantalla mostrando la configuración de una solicitud PUT para actualizar información de un tópico en la API.
+
+#### DELETE - Ejemplo de Eliminación
+
+![Insomnia DELETE 1](screenshots/InsomniaDelete-1.png)
+Descripción: Captura de pantalla mostrando la configuración de una solicitud DELETE para eliminar un tópico en la API.
 
 
 ---
