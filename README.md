@@ -74,6 +74,17 @@ Aquí podrás explorar los endpoints disponibles, sus parámetros y respuestas e
 
 ---
 
+## Capturas de Pantalla
+
+### Swagger UI
+![Swagger UI](screenshots/CapturaApi1.png)
+![Swagger UI](screenshots/CapturaApi2.png)
+
+### Insomnia Collection
+![Insomnia Collection](screenshots/postman-collection.png)
+
+
+---
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Si encuentras algún problema o tienes una mejora, por favor crea un issue o envía un pull request.
